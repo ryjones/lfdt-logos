@@ -17,23 +17,14 @@ These are set up for 4x6 [StickerMule sticker sheets.](https://www.stickermule.c
 ### Aries:
 ![](project-sticker-sheets/4x6-stickermule-aries.svg)
 
-### Avalon:
-![](project-sticker-sheets/4x6-stickermule-avalon.svg)
-
 ### Besu:
 ![](project-sticker-sheets/4x6-stickermule-besu.svg)
-
-### Burrow:
-![](project-sticker-sheets/4x6-stickermule-burrow.svg)
 
 ### Caliper:
 ![](project-sticker-sheets/4x6-stickermule-caliper.svg)
 
 ### Cello:
 ![](project-sticker-sheets/4x6-stickermule-cello.svg)
-
-### Explorer:
-![](project-sticker-sheets/4x6-stickermule-explorer.svg)
 
 ### Fabric:
 ![](project-sticker-sheets/4x6-stickermule-fabric.svg)
@@ -46,9 +37,6 @@ These are set up for 4x6 [StickerMule sticker sheets.](https://www.stickermule.c
 
 ### Iroha:
 ![](project-sticker-sheets/4x6-stickermule-iroha.svg)
-
-### Quilt:
-![](project-sticker-sheets/4x6-stickermule-quilt.svg)
 
 ### Sawtooth:
 ![](project-sticker-sheets/4x6-stickermule-sawtooth.svg)
