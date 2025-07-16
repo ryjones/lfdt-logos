@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1965.9 482.4">
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1965.9 482.4" xmlns:bx="https://boxy-svg.com">
   <defs>
     <style>
       .cls-1 {
@@ -14,8 +14,10 @@
         fill: #6bf3ce;
       }
     </style>
+    <bx:export>
+      <bx:file format="png" background="#fff" antialiasing="false" path="web3j.png"/>
+    </bx:export>
   </defs>
-  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
   <g>
     <g id="Layer_1">
       <path class="cls-2" d="M552.3,402l-51.1-314h37.7l44.3,289.7h6.2l57.9-289.7h67.3l57.3,289.7h6.2l44.7-289.7h37.7l-51.3,314h-67.2l-57.9-291.4h-6.2l-57.8,291.4h-67.9Z"/>
